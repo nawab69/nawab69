@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Multicone](https://multicone.io)**
 
-- 🌱 I’m currently learning **Blockchain and Solidity.**
+- 🌱 I’m a **Blockchain and Solidity.** Developer.
 
 - 👯 I’m looking to collaborate on **OpenSource and Freelance Projects**
 
