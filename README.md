@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Multicone](https://multicone.io)**
+- 🔭 I’m currently working on **[Multicone](https://multicone.tech)**
 
 - 🌱 I’m a **Blockchain and Solidity.** Developer.
 
 - 👯 I’m looking to collaborate on **OpenSource and Freelance Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-nawab.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://kibria.me)**
 
 - 📫 How to reach me **nawabkhairuzzaman@gmail.com**
 
