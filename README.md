@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://kibria.me"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome"></a>
   <a href="mailto:nawabkhairuzzaman@gmail.com"><img src="https://img.shields.io/badge/Email-nawabkhairuzzaman@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/nawab-kibria/"><img src="https://img.shields.io/badge/LinkedIn-nawab69-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/nawab-kibria/"><img src="https://img.shields.io/badge/LinkedIn-nawab_kibria-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 <br />
