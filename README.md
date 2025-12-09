@@ -1,133 +1,63 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/DlF3uOz.png" width="100%" alt="Blockchain Banner"/>
-</div>
+<img src="https://i.imgur.com/DlF3uOz.png" alt="Blockchain Banner" style="text-align: center; margin-bottom: 30px;" />
 
-<h1 align="center">🧱 Nawab Khairuzzaman Mohammad Kibria</h1>
-<h3 align="center">Full Stack Web Developer • Blockchain Engineer • ML/AI Enthusiast</h3>
-
+<h2 align="center"> <samp>Who am I ?</samp></h2>
 <p align="center">
-  <a href="https://kibria.me"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=flat-square"></a>
-  <a href="mailto:nawabkhairuzzaman@gmail.com"><img src="https://img.shields.io/badge/📧 Email-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/nawab-kibria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <samp>A blockchain engineer and full-stack developer with expertise in building secure, scalable Web3 systems. I specialize in multi-chain wallet development, Lightning Network infrastructure, smart contracts, and event-driven microservices. With a strong foundation in cryptography and distributed systems, I create production-grade solutions that merge blockchain, AI, and IoT technologies.
+  </samp>
+  <br> <br>
 </p>
 
----
-
-<br/>
-
-## 🔗 About Me
-
-I'm a **Blockchain & Full Stack Developer** passionate about building **secure**, **scalable**, and **high-performance Web3 systems**.  
-From designing decentralized infrastructure to crafting production-grade backend systems, I enjoy solving complex problems using:
-
-- 🔐 **Blockchain, Cryptography & Web3 Ecosystems**
-- ⚙️ **Backend Microservices & Cloud-Native Architecture**
-- 🤖 **Applied AI/ML for real-world automation**
-- 📱 **FinTech, Wallets & Cross-Border Payments**
-
-I enjoy merging **IoT**, **AI**, and **Blockchain** to create innovative, future-ready solutions.
-
----
-
-<br/>
-
-## 🧱 Blockchain & Web3 Expertise
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,bitcoin,go,rust,wasm&theme=dark&perline=6" />
+<h2 align="center"> <samp>Recent works</samp></h2>
+<samp><b>1. RenewLink: Decentralized Energy-Sharing Network</b></samp>
+<p>
+  <samp>A blockchain-powered IoT platform featuring smart meters, energy tokenization, verifiable data streams, and decentralized governance for peer-to-peer energy trading.</samp>
+</p>
+<samp><b>2. Cross-Border Payments Mobile Wallet</b></samp>
+<p>
+  <samp>Multi-chain wallet solution with AI-powered transaction monitoring, compliance automation, and support for BTC, ETH, BSC, Polygon, XRP, and Tron networks.</samp>
+</p>
+<samp><b>3. Bitcoin Lightning Infrastructure</b></samp>
+<p>
+  <samp>Complete Bitcoin infrastructure including Core nodes (mainnet/testnet/signet), Lightning Network (LND, CLN), ElectrumX indexer, custom explorer, and wallet-as-a-service backend.</samp>
 </p>
 
-### Specialized In:
-- Multi-chain Wallet Development (BTC, ETH, BSC, Polygon, XRP, Tron)
-- Lightning Network (LND, Core Lightning, ElectrumX)  
-- HD Wallets, MPC/TSS, Secure Key Custody  
-- Smart Contracts, Token Standards, DApps  
-- Node Infrastructure, Indexers, Explorers  
-- Event-Driven Microservices for Web3 Systems  
-- Blockchain + IoT + AI integrated platforms
+<img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="spacer" width="30" style=""/>
 
----
+<h2 align="center"> <samp>Things i {code} with</samp></h2>
 
-<br/>
+<samp>1. Blockchain & Web3</samp>
 
-## 🚀 Languages & Frameworks
+`solidity` • `ethereum` • `bitcoin` • `lightning network` • `web3.js` • `ethers.js` • `hardhat` • `foundry`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cpp,java&theme=light&perline=10" />
-</p>
+<samp>2. Backend & Systems</samp>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs,express,laravel,flutter,cypress,jest&theme=light&perline=10" />
-</p>
+`nodejs` • `nestjs` • `express` • `python` • `go` • `rust` • `microservices` • `event-driven architecture`
 
----
+<samp>3. Frontend</samp>
 
-<br/>
+`react` • `nextjs` • `typescript` • `tailwindcss` • `flutter`
 
-## 🧰 Databases, Messaging & Infra
+<samp>4. Databases & Messaging</samp>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,rabbitmq,kafka,firebase&theme=dark&perline=10" />
-</p>
+`mongodb` • `postgresql` • `redis` • `rabbitmq` • `kafka`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,googlecloud,terraform,git,github&theme=dark&perline=10" />
-</p>
+<samp>5. DevOps & Infrastructure</samp>
 
----
+`docker` • `kubernetes` • `nginx` • `aws` • `google cloud` • `terraform` • `ci/cd`
 
-<br/>
+<samp>6. Cryptography & Security</samp>
 
-## ⚡ Featured Blockchain Projects
+`hd wallets` • `mpc/tss` • `encryption` • `key management` • `secure enclaves`
 
-### 🔋 **RenewLink: Decentralized Energy-Sharing Network**
-A blockchain + IoT-powered system with smart meters, energy tokenization, verifiable data streams, and governance.
+<img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="spacer" width="30" style=""/>
 
-### 💸 **Cross-Border Payments Mobile Wallet**
-AI-powered transaction monitoring, multi-chain wallets, and compliance automation.
-
-### 🏢 **Multicone**
-Team delivering advanced Blockchain, Web3, and SaaS solutions.
-
-### 🔍 **Bitcoin Infrastructure**
-- Bitcoin Core (mainnet/testnet/signet/regtest)  
-- Lightning Network (LND, CLN, Eclair)  
-- ElectrumX Indexer  
-- Custom Explorer service  
-- Wallet-as-a-Service backend
-
----
-
-<br/>
-
-## 📊 GitHub Stats
+<h2 align="center"> <samp>Development Philosophy</samp></h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawab69&theme=algolia&hide_border=true" />
+  <samp>Security First • Scalable by Design • Decentralization Mindset • Developer Happiness • User-Focused</samp>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawab69&layout=compact&theme=algolia&hide_border=true" />
-</p>
-
----
-
-<br/>
-
-## 🧭 Blockchain Development Philosophy
-
-- **Security First** — encrypted keys, MPC/TSS, secure enclaves, zero raw exposure  
-- **Scalable by Design** — microservices, events, horizontal scaling  
-- **Decentralization Mindset** — cryptographic trust, verifiable data  
-- **Developer Happiness** — clean architecture, modular patterns, typed APIs  
-- **User-Focused** — fast UX, seamless onboarding, predictable performance  
-
----
-
-<br/>
-
-## 🤝 Connect & Collaborate
+<img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="spacer" width="30" style=""/>
 
 <p align="center">
   <a href="https://kibria.me"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=chrome"></a>
@@ -135,8 +65,6 @@ Team delivering advanced Blockchain, Web3, and SaaS solutions.
   <a href="mailto:nawabkhairuzzaman@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <samp>⭐ If you like my work, consider starring my repositories!</samp>
 </p>
