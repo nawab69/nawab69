@@ -19,6 +19,22 @@
   <samp>Complete Bitcoin infrastructure including Core nodes (mainnet/testnet/signet), Lightning Network (LND, CLN), ElectrumX indexer, custom explorer, and wallet-as-a-service backend.</samp>
 </p>
 
+<samp><b>4. GCBuying – Crypto Asset Trading Platform</b></samp>
+
+<p> <samp>A secure and scalable trading platform for digital assets featuring automated wallet management, liquidity optimization, and real-time market operations. Designed using a microservices architecture, the system powers smooth deposits, withdrawals, trading execution, and treasury automation for both web and mobile users.</samp> </p>
+
+<samp><b>GCBuying Website</b></samp>
+
+<p> <samp>Next.js-powered responsive website with high-performance pages, SEO optimization, and real-time trading indicators. Includes secure user onboarding, KYC integration, and a fully dynamic dashboard connected to the backend trading engine.</samp> </p>
+
+<samp><b>GCBuying Mobile Apps</b></samp>
+
+<p> <samp>Flutter-based mobile apps for Android & iOS with seamless wallet operations, real-time order status, price alerts, notifications, identity verification, and a streamlined deposit/withdrawal experience. Built with background sync, biometric security, and lightning-fast UI interactions.</samp> </p>
+
+<samp><b>Backend & Infrastructure of GCBuying</b></samp>
+
+<p> <samp>NestJS microservices with Kafka, Redis, MongoDB, and RabbitMQ ensure high throughput and fault tolerance. Includes multi-chain wallet infrastructure, secure asset management, automated hot/cold wallet flows, admin panel, audit logs, and observability stack for production-grade monitoring.</samp> </p>
+
 <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="spacer" width="30" style=""/>
 
 <h2 align="center"> <samp>Things i {code} with</samp></h2>
