@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/DlF3uOz.png" alt="Blockchain Banner" style="text-align: center; margin-bottom: 30px;" />
-
 <h2 align="center"> <samp>Who am I ?</samp></h2>
 <p align="center">
   <samp>A blockchain engineer and full-stack developer with expertise in building secure, scalable Web3 systems. I specialize in multi-chain wallet development, Lightning Network infrastructure, smart contracts, and event-driven microservices. With a strong foundation in cryptography and distributed systems, I create production-grade solutions that merge blockchain, AI, and IoT technologies.
